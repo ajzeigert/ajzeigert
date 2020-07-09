@@ -3,7 +3,7 @@
 <!--
 **ajzeigert/ajzeigert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Andy is a software developer at [GeoEngineers](https://www.geoengineers.com), where I work on all kinds of projects for use by our scientists and engineers. In a former life, I worked as a graphics reporter and designer at a newspaper, and I still consider myself a data visualization enthusiast!
+I am a software developer at [GeoEngineers](https://www.geoengineers.com), where I work on all kinds of projects for use by our scientists and engineers. In a former life, I worked as a graphics reporter and designer at a newspaper, and I still consider myself a data visualization enthusiast!
 
 I love working on maps, charts and user interfaces. I mostly make stuff for the web using javascript.
 
