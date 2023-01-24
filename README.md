@@ -7,6 +7,6 @@ I am a software developer at [GeoEngineers](https://www.geoengineers.com), where
 
 I love working on maps, charts and user interfaces. I mostly make stuff for the web using javascript.
 
-I don't do much social media these days, but I do post occasional pictures [@zeigert](https://www.instagram.com/zeigert/) on Instagram.
+You can find me on Mastodon [@zeigert](https://mastodon.social/@zeigert).
 
 You can also find me [@zeigert](https://glitch.com/@zeigert) on Glitch and [@ajzeigert](https://observablehq.com/@ajzeigert) on Observable.
